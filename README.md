@@ -1,4 +1,4 @@
-# OpenStack-FUEL-9.0-9.2-OFFLINE-INSTALLATION-AUTOMATIC
+# OpenStack-FUEL-9.x-OFFLINE-INSTALLATION-AUTOMATIC
 Self designed script(including resource) to deploy fuel+mos(9.0 and 9.2) in offline environment
 
 ### Environment
@@ -22,7 +22,7 @@ fuel_build_local-9.2.run:<br/>
 
 ### How to use
 1.Wait the MirantisOpenStack-9.0.iso installation finished. Like:<br/>
-![fuel master installed](https://github.com/BalaBalaYi/OpenStack-FUEL-9.0-9.2-OFFLINE-INSTALLATION-AUTOMATIC/raw/master/install.png) 
+![fuel master installed](https://github.com/BalaBalaYi/OpenStack-FUEL-9.x-OFFLINE-INSTALLATION-AUTOMATIC/raw/master/install.png) 
 
 2.Run the script on fuel-master node. <br/>
 e.g. `chmod +x fuel_build_local-9.2.run && sh ./fuel_build_local-9.2.run`
