@@ -9,8 +9,8 @@ You can find the ISO download here: https://www.mirantis.com/software/openstack/
 You can find the doc of the installation here: https://docs.mirantis.com/openstack/fuel/fuel-9.2/<br/>
 
 ### Needed Resource
-fuel_build_local-9.0.run = fuel_build_local-9.0.sh + 9.0 resources<br/>
-fuel_build_local-9.2.run = fuel_build_local-9.2.sh + 9.2 resources<br/>
+`fuel_build_local-9.0.run` = fuel_build_local-9.0.sh + 9.0 resources<br/>
+`fuel_build_local-9.2.run` = fuel_build_local-9.2.sh + 9.2 resources<br/>
   
 warning: The git only provide the single shell script. You need to download the following resource.
 
@@ -25,7 +25,7 @@ fuel_build_local-9.2.run:<br/>
 ![fuel master installed](https://github.com/BalaBalaYi/OpenStack-FUEL-9.0-9.2-OFFLINE-INSTALLATION-AUTOMATIC/raw/master/install.png) 
 
 2.Run the script on fuel-master node. <br/>
-e.g. chmod +x fuel_build_local-9.2.run && sh ./fuel_build_local-9.2.run
+e.g. `chmod +x fuel_build_local-9.2.run && sh ./fuel_build_local-9.2.run`
 
 3.Then you can deploy openstack with fuel web. GoodLuck^^
 
