@@ -16,9 +16,9 @@ warning: The git only provide the single shell script. You need to download the 
 
 Download:<br/>
 fuel_build_local-9.0.run:<br/>
-
+link: https://pan.baidu.com/s/16nZMlRARe_RrPYM0T7liJA password: pk37
 fuel_build_local-9.2.run:<br/>
-
+link: https://pan.baidu.com/s/1mGkH_2CMxCtTtyKvDVHHBA password: x1m8
 
 ### How to use
 1.Wait the MirantisOpenStack-9.0.iso installation finished. Like:<br/>
